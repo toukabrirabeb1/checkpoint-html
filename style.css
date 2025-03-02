@@ -1,8 +1,52 @@
-.a{
+body {
+    background-color: black;
+}
+.a a{
     display: inline;
     font-family: robot;
+    color: rgb(255, 196, 0);
+    font-size: 50px;
+    border: 2px;
+    border-color: rgb(235, 127, 19);
+    border-radius: -5;
+    margin: 30px;
 }
 img{
-    height: 100px;
-    width: 100px;
+    height: 350px;
+    width: 350px;
+    border-radius: 15px;
+    margin-left: 50px;
+    border-color: rgb(241, 238, 233);
+    border-style: solid;
+    
+}
+video{
+    height: 350px;
+    width: 350px;
+    border-radius: 15px;
+    margin-right: 50px;
+    border-color: rgb(236, 231, 220);
+    border-style: solid;
+    
+}
+p{
+    display: block;
+    color: rgb(218, 208, 189);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    border: 2px;
+    border-style:solid;
+    border-color: rgb(235, 226, 209);
+    background-color: rgb(37, 36, 36);
+}
+h1{
+    color: brown;
+    font-size:75PX;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width:25;
+    margin: auto;
+    margin-left: 500px;
+}
+#alt{
+    color: blue;
 }
