@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    scroll-behavior: smooth;
 }
 .a a{
     display: inline;
@@ -50,3 +51,22 @@ h1{
 #alt{
     color: blue;
 }
+.en{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    margin: 80px;
+}
+#the{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    margin: 80px;
+}
+#smart{ color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    margin: 80px;
+}
+
+
