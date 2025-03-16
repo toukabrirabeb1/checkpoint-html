@@ -1,0 +1,10 @@
+ALGORITHM somme
+VAR
+    a,b: INTEGER
+    s:INTEGER:=0;
+BEGIN
+    read(a)
+    readead(b)
+    s:a+b 
+    write(s)
+END
